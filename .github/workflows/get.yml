@@ -23,6 +23,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://picrew.me/ -o picrew.me.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://twitter.com/ -o twitter.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.pixiv.net/ -o www.pixiv.net.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/http://www.xfcdm.com/ -o www.xfcdm.com.jpg
 
         curl https://purge.jsdelivr.net/gh/fish214057/ScreenShot@gh-pages/*.*
     - name: Deploy
