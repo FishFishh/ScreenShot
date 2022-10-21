@@ -14,6 +14,7 @@ jobs:
     - name: Download
       run: |
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://fishfishh.github.io/ -o fishfishh.github.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://mrnobody233.github.io/ -o mrnobody233.github.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://thirsty-c.github.io/ -o thirsty-c.github.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://charxd.netlify.app/ -o charxd.netlify.app.jpg
